@@ -10,7 +10,7 @@
 2. Подгрузите текущий репозиторий
     ```shell
     git clone https://github.com/achilleess/FaceVerifLab.git
-    cd FaceVerifLabs
+    cd FaceVerifLab
     ```
 
 3. Установите необходимые для работы пакеты
