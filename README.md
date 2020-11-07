@@ -9,7 +9,7 @@
     ```
 2. Подгрузите текущий репозиторий
     ```shell
-    git clone https://github.com/achilleess/FaceVerifLabs.git
+    git clone https://github.com/achilleess/FaceVerifLab.git
     cd FaceVerifLabs
     ```
 
